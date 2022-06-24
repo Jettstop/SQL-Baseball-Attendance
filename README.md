@@ -1,3 +1,3 @@
 # SQL-Baseball-Attendance
-I am working though a data set I found on Kragle. 
+What effects Baseball attendance?
 I am going to get into more advanced queries, this is just the start
